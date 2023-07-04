@@ -43,7 +43,7 @@ def paraphrase(text):
 st.title('Social Media App')
 
 # Add a photo of the post
-image = Image.open('123.png')
+image = Image.open('123.jpg')
 st.image(image)
 
 # Add a like button
